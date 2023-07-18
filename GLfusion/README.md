@@ -22,6 +22,7 @@ The training code are provided below. We train our network with 4 RTX 3090Ti.
 ```Shell
 python main.py --mode train
 ```
+We provide our pretrained model [here]:https://hkustconnect-my.sharepoint.com/:f:/g/personal/jyangcu_connect_ust_hk/EuAO44c-s1pBgOvNqAzCgTYBuHLcgjjG_a4E1aPjotAJ1w?e=yRo0l3
 
 ## Evaluation and Test
 The evaluation and test code are provided below.
